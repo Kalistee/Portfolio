@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React.js/static/css/main.f93d9631.css",
-    "main.js": "/React.js/static/js/main.80efbd81.js",
+    "main.js": "/React.js/static/js/main.2c42bf0c.js",
     "static/js/453.678edc08.chunk.js": "/React.js/static/js/453.678edc08.chunk.js",
     "static/media/CatGame.mp4": "/React.js/static/media/CatGame.7783a500a7d34a8a8619.mp4",
     "static/media/background-blur.png": "/React.js/static/media/background-blur.d0c777f6a84a4d2d69fb.png",
@@ -13,11 +13,11 @@
     "static/media/code-background.jpg": "/React.js/static/media/code-background.3b6b6e4c292f76fb2c49.jpg",
     "index.html": "/React.js/index.html",
     "main.f93d9631.css.map": "/React.js/static/css/main.f93d9631.css.map",
-    "main.80efbd81.js.map": "/React.js/static/js/main.80efbd81.js.map",
+    "main.2c42bf0c.js.map": "/React.js/static/js/main.2c42bf0c.js.map",
     "453.678edc08.chunk.js.map": "/React.js/static/js/453.678edc08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f93d9631.css",
-    "static/js/main.80efbd81.js"
+    "static/js/main.2c42bf0c.js"
   ]
 }
