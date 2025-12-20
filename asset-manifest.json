@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.c7943112.css",
-    "main.js": "/Portfolio/static/js/main.697fce56.js",
+    "main.css": "/Portfolio/static/css/main.cdf4f5f0.css",
+    "main.js": "/Portfolio/static/js/main.a3f1e52a.js",
     "static/js/453.678edc08.chunk.js": "/Portfolio/static/js/453.678edc08.chunk.js",
+    "static/media/music_video.mp4": "/Portfolio/static/media/music_video.d43f8284645d983a918b.mp4",
     "static/media/CatGame.mp4": "/Portfolio/static/media/CatGame.7783a500a7d34a8a8619.mp4",
     "static/media/character.png": "/Portfolio/static/media/character.a370ee37ca58f97938b0.png",
     "static/media/profile.png": "/Portfolio/static/media/profile.a370ee37ca58f97938b0.png",
+    "static/media/building-night.jpg": "/Portfolio/static/media/building-night.69ecce4180f9345f227e.jpg",
     "static/media/background-blur.png": "/Portfolio/static/media/background-blur.d0c777f6a84a4d2d69fb.png",
     "static/media/logo.png": "/Portfolio/static/media/logo.d0c777f6a84a4d2d69fb.png",
     "static/media/project2.png": "/Portfolio/static/media/project2.d0c777f6a84a4d2d69fb.png",
     "static/media/project3.png": "/Portfolio/static/media/project3.d0c777f6a84a4d2d69fb.png",
     "static/media/code-background.jpg": "/Portfolio/static/media/code-background.3b6b6e4c292f76fb2c49.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.c7943112.css.map": "/Portfolio/static/css/main.c7943112.css.map",
-    "main.697fce56.js.map": "/Portfolio/static/js/main.697fce56.js.map",
+    "main.cdf4f5f0.css.map": "/Portfolio/static/css/main.cdf4f5f0.css.map",
+    "main.a3f1e52a.js.map": "/Portfolio/static/js/main.a3f1e52a.js.map",
     "453.678edc08.chunk.js.map": "/Portfolio/static/js/453.678edc08.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7943112.css",
-    "static/js/main.697fce56.js"
+    "static/css/main.cdf4f5f0.css",
+    "static/js/main.a3f1e52a.js"
   ]
 }
